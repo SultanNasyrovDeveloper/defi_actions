@@ -1,0 +1,1 @@
+from .erc20_contract_manager import get_token_contract_address

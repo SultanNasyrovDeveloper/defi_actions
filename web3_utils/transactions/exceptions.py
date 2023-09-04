@@ -1,0 +1,4 @@
+
+
+class GasToHighException(Exception):
+    pass
